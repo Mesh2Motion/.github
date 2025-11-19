@@ -1,3 +1,7 @@
+![Mesh2Motion Organization Banner](./organization-banner.png "Mesh2Motion Banner")
+
+# Mesh2Motion
+
 Mesh2Motion is a FREE, open-source web application that lets you animate 3D models with ease. You can import models in GLB, GLTF, DAE and FBX formats and export animations in the widely-supported GLB format.
 
 Some key features of Mesh2Motion include the following:
