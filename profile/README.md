@@ -2,6 +2,16 @@
 
 # Mesh2Motion
 
+<table>
+  <tr>
+    <td><h4>Discord<h4></td>
+    <td><a href="https://discord.com/channels/1408921718231273613/1452129660791165001">Join the Discord channel</a></td>
+    <td>
+      <img src="https://img.shields.io/discord/1408921718231273613?label=People&color=purple" alt="Discord">
+    </td>
+  </tr>
+</table>
+
 Mesh2Motion is a FREE, open-source web application that lets you animate 3D models with ease. You can import models in GLB, GLTF, DAE and FBX formats and export animations in the widely-supported GLB format.
 
 Some key features of Mesh2Motion include the following:
